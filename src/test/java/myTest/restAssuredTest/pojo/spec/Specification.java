@@ -1,4 +1,4 @@
-package myTest.pojo.spec;
+package myTest.restAssuredTest.pojo.spec;
 
 import io.restassured.RestAssured;
 import io.restassured.builder.RequestSpecBuilder;

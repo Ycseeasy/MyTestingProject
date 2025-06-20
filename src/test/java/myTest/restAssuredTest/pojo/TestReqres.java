@@ -1,7 +1,8 @@
-package myTest.pojo;
+package myTest.restAssuredTest.pojo;
 
 import myTest.pojo.model.*;
-import myTest.pojo.spec.Specification;
+import myTest.restAssuredTest.pojo.model.*;
+import myTest.restAssuredTest.pojo.spec.Specification;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

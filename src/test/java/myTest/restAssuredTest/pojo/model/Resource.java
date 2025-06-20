@@ -1,4 +1,4 @@
-package myTest.pojo.model;
+package myTest.restAssuredTest.pojo.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

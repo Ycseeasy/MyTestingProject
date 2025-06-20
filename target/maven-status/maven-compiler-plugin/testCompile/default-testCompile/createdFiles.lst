@@ -1,0 +1,6 @@
+myTest\model\RegisterData.class
+myTest\model\User.class
+myTest\model\SuccessReg.class
+myTest\specification\Specification.class
+myTest\model\Resource.class
+myTest\test\TestReqres.class

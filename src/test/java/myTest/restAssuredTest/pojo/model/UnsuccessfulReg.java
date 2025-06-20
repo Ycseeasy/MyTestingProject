@@ -1,13 +1,13 @@
-package myTest.pojo.model;
+package myTest.restAssuredTest.pojo.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 
-@Getter
 @AllArgsConstructor
 @RequiredArgsConstructor
-public class RegisterData {
-    private String email;
-    private String password;
+@Getter
+public class UnsuccessfulReg {
+
+    private String error;
 }
