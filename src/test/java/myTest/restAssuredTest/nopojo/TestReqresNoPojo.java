@@ -1,8 +1,8 @@
-package myTest.nopojo;
+package myTest.restAssuredTest.nopojo;
 
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
-import myTest.pojo.spec.Specification;
+import myTest.restAssuredTest.pojo.spec.Specification;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
