@@ -1,4 +1,4 @@
-package myTest.seleniumTest;
+package myTest.seleniumTest.tests;
 
 import com.codeborne.selenide.Configuration;
 import com.codeborne.selenide.Selenide;

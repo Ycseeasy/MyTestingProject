@@ -1,6 +1,8 @@
-package myTest.seleniumTest;
+package myTest.seleniumTest.tests;
 
 import com.codeborne.selenide.SelenideElement;
+import myTest.seleniumTest.pages.ElementsPage;
+import myTest.seleniumTest.pages.MainPage;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
